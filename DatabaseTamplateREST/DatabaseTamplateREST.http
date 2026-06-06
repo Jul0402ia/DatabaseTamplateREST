@@ -1,0 +1,6 @@
+@DatabaseTamplateREST_HostAddress = http://localhost:5161
+
+GET {{DatabaseTamplateREST_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
